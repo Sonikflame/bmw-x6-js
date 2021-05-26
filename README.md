@@ -1,6 +1,6 @@
 # Промостраница для BMW X6 на JS
 
-Учебный проект доступен по адресу [https://sonikflame.github.io/](https://sonikflame.github.io/).
+Учебный проект доступен по адресу [https://sonikflame.github.io/bmw-x6-js/](https://sonikflame.github.io/bmw-x6-js/).
 
 
 ## В проекте использовались языки:
